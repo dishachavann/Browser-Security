@@ -45,8 +45,8 @@ The goal of this task is to learn how to identify, review, and safely remove pot
 
 ## 📸 Screenshots
 
-- `before.png` → Screenshot showing all installed extensions before removal.
-- `after.png` → Screenshot after removing `eRail.in` and `Smallpdf`.
+- `before.pdf` → Screenshot showing all installed extensions before removal.
+- `after.jpg` → Screenshot after removing `eRail.in` and `Smallpdf`.
 
 ##  Security Insights (Mini Research)
 
